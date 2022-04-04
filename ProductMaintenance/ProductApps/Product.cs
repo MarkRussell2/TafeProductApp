@@ -66,5 +66,6 @@ namespace ProductApps
             TotalPayment = Price * Quantity;
             return TotalPayment;
         }
+
     }
 }
